@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GrauCompac</string>
+    <string name="btn_umidade">Umidade</string>
+    <string name="btn_seco">Seco</string>
+    <string name="btn_volume">Volume</string>
+    <string name="btn_resultado">Resultado</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="amostra_mida_tara_g">Amostra úmida + Tara(g)</string>
+    <string name="determina_o_da_umidade">Determinação da umidade</string>
+    <string name="amostra_seca_tara_g">Amostra seca + Tara(g)</string>
+    <string name="Agua">Água:</string>
+    <string name="tara_g">tara (g)</string>
+    <string name="amostra_seca">Amostra Seca:</string>
+    <string name="capsula">Cápsula</string>
+    <string name="umidade_speedy">Umidade%/Speedy:</string>
+    <string name="por_favor_complete_todos_os_campos">Por favor complete todos os campos</string>
+</resources>
